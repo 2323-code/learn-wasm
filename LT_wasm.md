@@ -4,9 +4,16 @@ marp: true
 
 # wasm 完全に理解した（い）
 
+## エンジニア達の「完全に理解した」Talk 　#56
+
 2024/08/23
 
+#完全に理解した Talk
+
 ふみふみ
+
+X: @2323_code
+GitHub: 2323-code
 
 ---
 
@@ -23,6 +30,15 @@ marp: true
 - Java Script と他の言語を組み合わせて使える
 
 と認識して帰ってもらうこと
+
+---
+
+# 自己紹介：ふみふみ、と申します。
+
+普段は Web エンジニアしながら、
+「RustLadies」という女性 Rustacean コミュニティを運営しています。
+
+![alt text](icon.jpeg)
 
 ---
 
@@ -205,7 +221,7 @@ fn StoryListing() -> Element {
 
 # 結果
 
-![alt text](image-3.png)
+![alt text](image.png)
 
 ---
 
@@ -213,18 +229,6 @@ fn StoryListing() -> Element {
 
 - wasm は Web Assembly の略
 - 機械語並みの速さで実行できる Web アプリケーションを作れる
-
----
-
-## 余談：この LT で外部に出ます
-
-[エンジニア達の「完全に理解した」Talk 　#56 - connpass](https://easy2.connpass.com/event/326820/) に、今日と同じ内容で出ます
-
-目指せﾁｮｯﾄﾃﾞｷﾙ
-
----
-
-![完全に理解したTalkのイベントページです](image.png)
 
 ---
 
@@ -239,8 +243,4 @@ fn StoryListing() -> Element {
 
 # Wasm 何もわからない
 
-ご清聴ありがとうございました
-
----
-
-wasm 書かれて → JavaScript → Wasm 実行
+ご清聴ありがとうございました！
